@@ -847,6 +847,6 @@ body {
         
     }
     100% {
-        transform: translateY(210vh) scale(.1);
+        transform: translateY(100vh) scale(.1);
     }
 }

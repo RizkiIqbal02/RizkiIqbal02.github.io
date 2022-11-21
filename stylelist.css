@@ -34,7 +34,7 @@ body {
     padding: 0px;
     box-sizing: border-box;
     position: relative;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .skills, .profil-area , .project-area , .contact {
